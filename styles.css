@@ -1,0 +1,21 @@
+body {
+    background-color: #1e1c1a;
+    font-family: "Vazirmatn";
+    font-size: 2rem;
+  }
+  h1,
+  p {
+    text-align: center;
+    color: white;
+  }
+  .updist {
+    text-align: center;
+    padding-top: 5rem;
+  }
+  a:link,
+  a:visited {
+    color: white;
+  }
+  .linkrow {
+    font-size: 1.25rem;
+  }
